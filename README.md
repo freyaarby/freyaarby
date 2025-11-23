@@ -22,7 +22,7 @@
 `Jupyter Notebook` • `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `Power BI/Tableau` 
 
 **Dev & Design Tools:**  
-`VS Code` • `Git & GitHub` • `Figma` • `Postman` • `Ibis Paint`  
+`VS Code` • `Git & GitHub` • `Bootstrap` • `Postman` • `Figma` • `Ibis Paint`  
 
 ---
 
