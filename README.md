@@ -8,8 +8,7 @@
 
 ---
 
-### ✨ About Me  
-- 🎓 I'm a Computer Science student interested about **Data Science, Machine Learning, and Web Development**.  
+### ✨ About Me   
 - 🚀 I love building things that are simple, meaningful, and impactful.  
 
 ---
