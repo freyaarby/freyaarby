@@ -15,7 +15,6 @@
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Instagram-FF8FB1?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-F4A9C6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-EFBAD7?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ---
