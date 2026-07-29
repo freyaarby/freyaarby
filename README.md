@@ -25,16 +25,17 @@ Btw, I also love playing games! (●'◡'●)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black">
-  <img src="https://img.shields.io/badge/Power_BI-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/Laravel-FFB6C1?style=for-the-badge&logo=laravel&logoColor=black">
   <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-FFD1DC?style=for-the-badge&logo=kotlin&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=black">
+  <img src="https://img.shields.io/badge/Tailwind-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-FFC0CB?style=for-the-badge&logo=vite&logoColor=black">
-  <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-FFB6C1?style=for-the-badge&logo=vuedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Kotlin-FFD1DC?style=for-the-badge&logo=kotlin&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerBI-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-FFD1DC?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
