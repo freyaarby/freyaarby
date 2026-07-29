@@ -15,8 +15,7 @@
 ---
 
 ### ✨ About Me   
-Hello there👋
-I'm Adelia from UB and I love building things that are simple, meaningful, and impactful. I have a huge interest in IT, especially about **Business Process**, **Digital Product Strategist**, **Data & Machine Learning**, and also **Product Appereance (FE) & Quality Assurance**. I always eager to learn new technologies and bridge the gap between technical data and real-world solutions. I always open to discuss and connect, so I hope I can learn something together in GitHub here. Let's be moots yeaa
+Hi, I'm Adelia from UB and I love building things that are simple, meaningful, and impactful. I have a huge interest in IT, especially about **Business Process**, **Digital Product Strategist**, **Data & Machine Learning**, and also **Product Appereance (FE) & Quality Assurance**. I always eager to learn new technologies and bridge the gap between technical data and real-world solutions. I always open to discuss and connect, so I hope I can learn something together in GitHub here. Let's be moots yeaa
 
 Btw, I also love playing games! (●'◡'●)
 
