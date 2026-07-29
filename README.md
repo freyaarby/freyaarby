@@ -25,16 +25,9 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-FFC0CB?style=for-the-badge&logo=vite&logoColor=black">
   <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-FFB6C1?style=for-the-badge&logo=vuedotjs&logoColor=black">
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
-</div>
 
 ---
 
