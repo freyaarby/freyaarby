@@ -35,6 +35,7 @@ Btw, I also love playing games! (●'◡'●)
   <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-FFB6C1?style=for-the-badge&logo=vuedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
 ---
