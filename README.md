@@ -46,11 +46,12 @@ Btw, I also love playing games! (●'◡'●)
 
 ---
 
-### 🗄️Database & Infrastructure
+### 🗄️Database, Infrastructure, Editor
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-FFD1DC?style=for-the-badge&logo=postgresql&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/DBeaver-FFB6C1?style=for-the-badge&logo=dbeaver&logoColor=black">
 </p>
 
 ---
