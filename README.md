@@ -21,10 +21,19 @@ Btw, I also love playing games! (●'◡'●)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
+### 📊 Data
 <p align="left">
+  <img src="https://img.shields.io/badge/Excel-FFD1DC?style=for-the-badge&logo=excel&logoColor=black">
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerBI-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-FFC0CB?style=for-the-badge&logo=tableau&logoColor=black">
+  <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
+</p>
+
+---
+
+### 🎨 Web & Mobile Development
+<p align="left">
   <img src="https://img.shields.io/badge/Laravel-FFB6C1?style=for-the-badge&logo=laravel&logoColor=black">
   <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=black">
@@ -32,10 +41,15 @@ Btw, I also love playing games! (●'◡'●)
   <img src="https://img.shields.io/badge/Bootstrap-FFC0CB?style=for-the-badge&logo=bootstrap&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-FFB6C1?style=for-the-badge&logo=vuedotjs&logoColor=black">
   <img src="https://img.shields.io/badge/Kotlin-FFD1DC?style=for-the-badge&logo=kotlin&logoColor=black">
-  <img src="https://img.shields.io/badge/PowerBI-FFC0CB?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>
+
+
+---
+
+### 🗄️Database & Infrastructure
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/PostgreSQL-FFD1DC?style=for-the-badge&logo=postgresql&logoColor=black">
-  <img src="https://img.shields.io/badge/Jupyter-FFD1DC?style=for-the-badge&logo=jupyter&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
