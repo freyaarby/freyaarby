@@ -32,9 +32,9 @@
 ---
 
 ### 🌸 Let's Connect  
-<p align="center">
-  <a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF8FB1?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-F4A9C6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="left">
+  <a href="https://instagram.com/adeliadvniii"><img src="https://img.shields.io/badge/Instagram-FF8FB1?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://linkedin.com/in/putu-adelia-devani-ardiana"><img src="https://img.shields.io/badge/LinkedIn-F4A9C6?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
